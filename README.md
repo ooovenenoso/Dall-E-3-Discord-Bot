@@ -14,7 +14,7 @@ A Discord bot that replicates the image generation capabilities of Midjourney by
 To use this bot, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/discord-dalle-bot.git
+git clone https://github.com/ooovenenoso/Dall-E-3-Discord-Bot.git
 cd discord-dalle-bot
 pip install -r requirements.txt
 ```
