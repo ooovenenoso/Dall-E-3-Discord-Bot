@@ -15,7 +15,7 @@ To use this bot, clone the repository and install the required dependencies.
 
 ```bash
 git clone https://github.com/ooovenenoso/Dall-E-3-Discord-Bot.git
-cd discord-dalle-bot
+cd Dall-E-3-Discord-Bot
 pip install -r requirements.txt
 ```
 
