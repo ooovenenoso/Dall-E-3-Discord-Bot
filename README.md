@@ -1,4 +1,4 @@
-# Discord DALL·E Bot - Midjourney Emulation
+# Discord DALL·E 3 Bot - Midjourney Emulation
 
 A Discord bot that replicates the image generation capabilities of Midjourney by leveraging the powerful DALL·E API from OpenAI. Users can create unique, AI-generated images from textual descriptions, directly within Discord.
 
